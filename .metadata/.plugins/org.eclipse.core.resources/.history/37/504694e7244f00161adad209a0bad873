@@ -18,7 +18,6 @@ public class HelloGit {
 		
 		System.out.println("Enter a number: ");
 		
-		//Bad if statement...randomly testing stuff
 		if (myNum == num) {
 			System.out.println("Cool, " + myNum + " matches!");
 		}
