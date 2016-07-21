@@ -1,0 +1,13 @@
+package testingOnNewSys;
+
+public class HelloGit {
+
+	public static void main(String[] args) {
+		
+		//Simple print statement (Testing with Git usage)
+		String greetings = "Hello, Git!";
+		System.out.println(greetings);
+
+	}
+
+}
